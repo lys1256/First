@@ -13,3 +13,9 @@ git commit good.txt
 check
 check2
 check3
+
+git reset --hard {hashcode}
+
+git reset --hard HEAD~3
+
+test pull
