@@ -1,0 +1,10 @@
+git init
+
+git config user.name
+git config user.Email
+
+cat .git/config
+
+git add good.txt将文件加入暂存区
+
+git rm --cached 从暂存区恢复文件
