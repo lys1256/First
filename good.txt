@@ -8,3 +8,6 @@ cat .git/config
 git add good.txt将文件加入暂存区
 
 git rm --cached 从暂存区恢复文件
+
+git commit good.txt
+check
