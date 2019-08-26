@@ -18,4 +18,4 @@ git reset --hard {hashcode}
 
 git reset --hard HEAD~3
 
-test pull
+test spull
